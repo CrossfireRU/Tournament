@@ -1,12 +1,13 @@
-|_DiscordUrlAvatar_|_DiscordName_|_IGNName_|_TotalPP_|_Kill_|_Death_|_KDR_|
+|_DiscordUrlAvatar_|_DiscordName_|_IGNName_|_TotalPP_|_Kill_|_Death_|_KDR_|_MVPGame_|
 
 Preview:
 *
--DiscordURL
---DiscordName
----IGNName
-----727
------45
-------20
--------(_Kill_ /: _Death_)
+- DiscordURL
+-- DiscordName 
+--- IGNName
+---- ( _Kill_* 1 ) - ( _Death_ * 1 ) = ( Result ) * 0,5 + ( _MVPGame_ )
+----- 45
+------ 20
+-------  (_Kill_ /: _Death_ )
+-------- 5 #CountDownOfMvpMatch
 *
