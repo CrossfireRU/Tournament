@@ -2,12 +2,12 @@
 
 Preview:
 *
-- DiscordURL
--- DiscordName 
---- IGNName
----- ( _Kill_* 1 ) - ( _Death_ * 1 ) = ( Result ) * 0,5 + ( _MVPGame_ )
------ 45 #Example
------- 20 #Example
--------  (_Kill_ /: _Death_ )
--------- 5 #CountDownOfMvpMatch #Example
+DUA `DiscordURL`
+DN `DiscordName`
+IGN `IGNName`
+TPP `(K * 1 ) - ( D * 1 ) = ( Result ) * 0,5 + ( MVP )`
+K `45` #Example
+D `20` #Example
+KDR `( K/D )`
+MVP `5` #CountDownOfMvpMatch #Example
 *
